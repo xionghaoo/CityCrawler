@@ -28,19 +28,37 @@ for p in province_list:
 
     city_request = requests.get(href_host + p['href'], headers=headers)
     city_soup = BeautifulSoup(city_request.text.encode(city_request.encoding).decode('gbk'), 'html.parser')
-    city_list = city_soup.select('tr.citytr > td > a')
+    city_list = city_soup.select('tr.citytr')
     city_data = {}
     city_data['cities'] = []
     for c in city_list:
-        if not re.match('[\\d]+', c.contents[0]):
-            city_data['provinceName'] = p.contents[0]
-            city_data['cities'].append(c.contents[0])
+
+        city_html = c.contents
+        # td > a > text
+        try:
+            city_html_number = city_html[0].contents[0].contents[0]
+        except AttributeError:
+            city_html_number = city_html[0].contents[0]
+        try:
+            city_html_name = city_html[1].contents[0].contents[0]
+            city_href = city_html[1].contents[0]['href']
+        except AttributeError:
+            city_html_name = city_html[1].contents[0]
+
+        city_obj = {}
+        city_obj['cityName'] = city_html_name
+        city_obj['cityNumber'] = city_html_number
+
+        city_data['provinceName'] = p.contents[0]
+        city_data['cities'].append(city_obj)
+
     print(city_data)
     data['provinces'].append(city_data)
 
-
-with codecs.open('D:\\SVNRepo\\JZWealth\\app\\src\\main\\assets\\provinces.json', 'w') as f_obj:
-    json.dump(data, f_obj, ensure_ascii=True)
+# D:\\SVNRepo\\JZWealth\\app\\src\\main\\assets\\provinces.json
+with codecs.open('provinces.json', 'w') as f_obj:
+    # 如果以utf8格式输出，ensure_ascii应该为false
+    json.dump(data, f_obj, ensure_ascii=False)
 
 
 
