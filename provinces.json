@@ -1,1 +1,1523 @@
-{"provinces": [{"cities": [{"cityName": "市辖区", "cityNumber": "110100000000"}], "provinceName": "北京市"}, {"cities": [{"cityName": "市辖区", "cityNumber": "120100000000"}], "provinceName": "天津市"}, {"cities": [{"cityName": "石家庄市", "cityNumber": "130100000000"}, {"cityName": "唐山市", "cityNumber": "130200000000"}, {"cityName": "秦皇岛市", "cityNumber": "130300000000"}, {"cityName": "邯郸市", "cityNumber": "130400000000"}, {"cityName": "邢台市", "cityNumber": "130500000000"}, {"cityName": "保定市", "cityNumber": "130600000000"}, {"cityName": "张家口市", "cityNumber": "130700000000"}, {"cityName": "承德市", "cityNumber": "130800000000"}, {"cityName": "沧州市", "cityNumber": "130900000000"}, {"cityName": "廊坊市", "cityNumber": "131000000000"}, {"cityName": "衡水市", "cityNumber": "131100000000"}], "provinceName": "河北省"}, {"cities": [{"cityName": "太原市", "cityNumber": "140100000000"}, {"cityName": "大同市", "cityNumber": "140200000000"}, {"cityName": "阳泉市", "cityNumber": "140300000000"}, {"cityName": "长治市", "cityNumber": "140400000000"}, {"cityName": "晋城市", "cityNumber": "140500000000"}, {"cityName": "朔州市", "cityNumber": "140600000000"}, {"cityName": "晋中市", "cityNumber": "140700000000"}, {"cityName": "运城市", "cityNumber": "140800000000"}, {"cityName": "忻州市", "cityNumber": "140900000000"}, {"cityName": "临汾市", "cityNumber": "141000000000"}, {"cityName": "吕梁市", "cityNumber": "141100000000"}], "provinceName": "山西省"}, {"cities": [{"cityName": "呼和浩特市", "cityNumber": "150100000000"}, {"cityName": "包头市", "cityNumber": "150200000000"}, {"cityName": "乌海市", "cityNumber": "150300000000"}, {"cityName": "赤峰市", "cityNumber": "150400000000"}, {"cityName": "通辽市", "cityNumber": "150500000000"}, {"cityName": "鄂尔多斯市", "cityNumber": "150600000000"}, {"cityName": "呼伦贝尔市", "cityNumber": "150700000000"}, {"cityName": "巴彦淖尔市", "cityNumber": "150800000000"}, {"cityName": "乌兰察布市", "cityNumber": "150900000000"}, {"cityName": "兴安盟", "cityNumber": "152200000000"}, {"cityName": "锡林郭勒盟", "cityNumber": "152500000000"}, {"cityName": "阿拉善盟", "cityNumber": "152900000000"}], "provinceName": "内蒙古自治区"}, {"cities": [{"cityName": "沈阳市", "cityNumber": "210100000000"}, {"cityName": "大连市", "cityNumber": "210200000000"}, {"cityName": "鞍山市", "cityNumber": "210300000000"}, {"cityName": "抚顺市", "cityNumber": "210400000000"}, {"cityName": "本溪市", "cityNumber": "210500000000"}, {"cityName": "丹东市", "cityNumber": "210600000000"}, {"cityName": "锦州市", "cityNumber": "210700000000"}, {"cityName": "营口市", "cityNumber": "210800000000"}, {"cityName": "阜新市", "cityNumber": "210900000000"}, {"cityName": "辽阳市", "cityNumber": "211000000000"}, {"cityName": "盘锦市", "cityNumber": "211100000000"}, {"cityName": "铁岭市", "cityNumber": "211200000000"}, {"cityName": "朝阳市", "cityNumber": "211300000000"}, {"cityName": "葫芦岛市", "cityNumber": "211400000000"}], "provinceName": "辽宁省"}, {"cities": [{"cityName": "长春市", "cityNumber": "220100000000"}, {"cityName": "吉林市", "cityNumber": "220200000000"}, {"cityName": "四平市", "cityNumber": "220300000000"}, {"cityName": "辽源市", "cityNumber": "220400000000"}, {"cityName": "通化市", "cityNumber": "220500000000"}, {"cityName": "白山市", "cityNumber": "220600000000"}, {"cityName": "松原市", "cityNumber": "220700000000"}, {"cityName": "白城市", "cityNumber": "220800000000"}, {"cityName": "延边朝鲜族自治州", "cityNumber": "222400000000"}], "provinceName": "吉林省"}, {"cities": [{"cityName": "哈尔滨市", "cityNumber": "230100000000"}, {"cityName": "齐齐哈尔市", "cityNumber": "230200000000"}, {"cityName": "鸡西市", "cityNumber": "230300000000"}, {"cityName": "鹤岗市", "cityNumber": "230400000000"}, {"cityName": "双鸭山市", "cityNumber": "230500000000"}, {"cityName": "大庆市", "cityNumber": "230600000000"}, {"cityName": "伊春市", "cityNumber": "230700000000"}, {"cityName": "佳木斯市", "cityNumber": "230800000000"}, {"cityName": "七台河市", "cityNumber": "230900000000"}, {"cityName": "牡丹江市", "cityNumber": "231000000000"}, {"cityName": "黑河市", "cityNumber": "231100000000"}, {"cityName": "绥化市", "cityNumber": "231200000000"}, {"cityName": "大兴安岭地区", "cityNumber": "232700000000"}], "provinceName": "黑龙江省"}, {"cities": [{"cityName": "市辖区", "cityNumber": "310100000000"}], "provinceName": "上海市"}, {"cities": [{"cityName": "南京市", "cityNumber": "320100000000"}, {"cityName": "无锡市", "cityNumber": "320200000000"}, {"cityName": "徐州市", "cityNumber": "320300000000"}, {"cityName": "常州市", "cityNumber": "320400000000"}, {"cityName": "苏州市", "cityNumber": "320500000000"}, {"cityName": "南通市", "cityNumber": "320600000000"}, {"cityName": "连云港市", "cityNumber": "320700000000"}, {"cityName": "淮安市", "cityNumber": "320800000000"}, {"cityName": "盐城市", "cityNumber": "320900000000"}, {"cityName": "扬州市", "cityNumber": "321000000000"}, {"cityName": "镇江市", "cityNumber": "321100000000"}, {"cityName": "泰州市", "cityNumber": "321200000000"}, {"cityName": "宿迁市", "cityNumber": "321300000000"}], "provinceName": "江苏省"}, {"cities": [{"cityName": "杭州市", "cityNumber": "330100000000"}, {"cityName": "宁波市", "cityNumber": "330200000000"}, {"cityName": "温州市", "cityNumber": "330300000000"}, {"cityName": "嘉兴市", "cityNumber": "330400000000"}, {"cityName": "湖州市", "cityNumber": "330500000000"}, {"cityName": "绍兴市", "cityNumber": "330600000000"}, {"cityName": "金华市", "cityNumber": "330700000000"}, {"cityName": "衢州市", "cityNumber": "330800000000"}, {"cityName": "舟山市", "cityNumber": "330900000000"}, {"cityName": "台州市", "cityNumber": "331000000000"}, {"cityName": "丽水市", "cityNumber": "331100000000"}], "provinceName": "浙江省"}, {"cities": [{"cityName": "合肥市", "cityNumber": "340100000000"}, {"cityName": "芜湖市", "cityNumber": "340200000000"}, {"cityName": "蚌埠市", "cityNumber": "340300000000"}, {"cityName": "淮南市", "cityNumber": "340400000000"}, {"cityName": "马鞍山市", "cityNumber": "340500000000"}, {"cityName": "淮北市", "cityNumber": "340600000000"}, {"cityName": "铜陵市", "cityNumber": "340700000000"}, {"cityName": "安庆市", "cityNumber": "340800000000"}, {"cityName": "黄山市", "cityNumber": "341000000000"}, {"cityName": "滁州市", "cityNumber": "341100000000"}, {"cityName": "阜阳市", "cityNumber": "341200000000"}, {"cityName": "宿州市", "cityNumber": "341300000000"}, {"cityName": "六安市", "cityNumber": "341500000000"}, {"cityName": "亳州市", "cityNumber": "341600000000"}, {"cityName": "池州市", "cityNumber": "341700000000"}, {"cityName": "宣城市", "cityNumber": "341800000000"}], "provinceName": "安徽省"}, {"cities": [{"cityName": "福州市", "cityNumber": "350100000000"}, {"cityName": "厦门市", "cityNumber": "350200000000"}, {"cityName": "莆田市", "cityNumber": "350300000000"}, {"cityName": "三明市", "cityNumber": "350400000000"}, {"cityName": "泉州市", "cityNumber": "350500000000"}, {"cityName": "漳州市", "cityNumber": "350600000000"}, {"cityName": "南平市", "cityNumber": "350700000000"}, {"cityName": "龙岩市", "cityNumber": "350800000000"}, {"cityName": "宁德市", "cityNumber": "350900000000"}], "provinceName": "福建省"}, {"cities": [{"cityName": "南昌市", "cityNumber": "360100000000"}, {"cityName": "景德镇市", "cityNumber": "360200000000"}, {"cityName": "萍乡市", "cityNumber": "360300000000"}, {"cityName": "九江市", "cityNumber": "360400000000"}, {"cityName": "新余市", "cityNumber": "360500000000"}, {"cityName": "鹰潭市", "cityNumber": "360600000000"}, {"cityName": "赣州市", "cityNumber": "360700000000"}, {"cityName": "吉安市", "cityNumber": "360800000000"}, {"cityName": "宜春市", "cityNumber": "360900000000"}, {"cityName": "抚州市", "cityNumber": "361000000000"}, {"cityName": "上饶市", "cityNumber": "361100000000"}], "provinceName": "江西省"}, {"cities": [{"cityName": "济南市", "cityNumber": "370100000000"}, {"cityName": "青岛市", "cityNumber": "370200000000"}, {"cityName": "淄博市", "cityNumber": "370300000000"}, {"cityName": "枣庄市", "cityNumber": "370400000000"}, {"cityName": "东营市", "cityNumber": "370500000000"}, {"cityName": "烟台市", "cityNumber": "370600000000"}, {"cityName": "潍坊市", "cityNumber": "370700000000"}, {"cityName": "济宁市", "cityNumber": "370800000000"}, {"cityName": "泰安市", "cityNumber": "370900000000"}, {"cityName": "威海市", "cityNumber": "371000000000"}, {"cityName": "日照市", "cityNumber": "371100000000"}, {"cityName": "莱芜市", "cityNumber": "371200000000"}, {"cityName": "临沂市", "cityNumber": "371300000000"}, {"cityName": "德州市", "cityNumber": "371400000000"}, {"cityName": "聊城市", "cityNumber": "371500000000"}, {"cityName": "滨州市", "cityNumber": "371600000000"}, {"cityName": "菏泽市", "cityNumber": "371700000000"}], "provinceName": "山东省"}, {"cities": [{"cityName": "郑州市", "cityNumber": "410100000000"}, {"cityName": "开封市", "cityNumber": "410200000000"}, {"cityName": "洛阳市", "cityNumber": "410300000000"}, {"cityName": "平顶山市", "cityNumber": "410400000000"}, {"cityName": "安阳市", "cityNumber": "410500000000"}, {"cityName": "鹤壁市", "cityNumber": "410600000000"}, {"cityName": "新乡市", "cityNumber": "410700000000"}, {"cityName": "焦作市", "cityNumber": "410800000000"}, {"cityName": "濮阳市", "cityNumber": "410900000000"}, {"cityName": "许昌市", "cityNumber": "411000000000"}, {"cityName": "漯河市", "cityNumber": "411100000000"}, {"cityName": "三门峡市", "cityNumber": "411200000000"}, {"cityName": "南阳市", "cityNumber": "411300000000"}, {"cityName": "商丘市", "cityNumber": "411400000000"}, {"cityName": "信阳市", "cityNumber": "411500000000"}, {"cityName": "周口市", "cityNumber": "411600000000"}, {"cityName": "驻马店市", "cityNumber": "411700000000"}, {"cityName": "省直辖县级行政区划", "cityNumber": "419000000000"}], "provinceName": "河南省"}, {"cities": [{"cityName": "武汉市", "cityNumber": "420100000000"}, {"cityName": "黄石市", "cityNumber": "420200000000"}, {"cityName": "十堰市", "cityNumber": "420300000000"}, {"cityName": "宜昌市", "cityNumber": "420500000000"}, {"cityName": "襄阳市", "cityNumber": "420600000000"}, {"cityName": "鄂州市", "cityNumber": "420700000000"}, {"cityName": "荆门市", "cityNumber": "420800000000"}, {"cityName": "孝感市", "cityNumber": "420900000000"}, {"cityName": "荆州市", "cityNumber": "421000000000"}, {"cityName": "黄冈市", "cityNumber": "421100000000"}, {"cityName": "咸宁市", "cityNumber": "421200000000"}, {"cityName": "随州市", "cityNumber": "421300000000"}, {"cityName": "恩施土家族苗族自治州", "cityNumber": "422800000000"}, {"cityName": "省直辖县级行政区划", "cityNumber": "429000000000"}], "provinceName": "湖北省"}, {"cities": [{"cityName": "长沙市", "cityNumber": "430100000000"}, {"cityName": "株洲市", "cityNumber": "430200000000"}, {"cityName": "湘潭市", "cityNumber": "430300000000"}, {"cityName": "衡阳市", "cityNumber": "430400000000"}, {"cityName": "邵阳市", "cityNumber": "430500000000"}, {"cityName": "岳阳市", "cityNumber": "430600000000"}, {"cityName": "常德市", "cityNumber": "430700000000"}, {"cityName": "张家界市", "cityNumber": "430800000000"}, {"cityName": "益阳市", "cityNumber": "430900000000"}, {"cityName": "郴州市", "cityNumber": "431000000000"}, {"cityName": "永州市", "cityNumber": "431100000000"}, {"cityName": "怀化市", "cityNumber": "431200000000"}, {"cityName": "娄底市", "cityNumber": "431300000000"}, {"cityName": "湘西土家族苗族自治州", "cityNumber": "433100000000"}], "provinceName": "湖南省"}, {"cities": [{"cityName": "广州市", "cityNumber": "440100000000"}, {"cityName": "韶关市", "cityNumber": "440200000000"}, {"cityName": "深圳市", "cityNumber": "440300000000"}, {"cityName": "珠海市", "cityNumber": "440400000000"}, {"cityName": "汕头市", "cityNumber": "440500000000"}, {"cityName": "佛山市", "cityNumber": "440600000000"}, {"cityName": "江门市", "cityNumber": "440700000000"}, {"cityName": "湛江市", "cityNumber": "440800000000"}, {"cityName": "茂名市", "cityNumber": "440900000000"}, {"cityName": "肇庆市", "cityNumber": "441200000000"}, {"cityName": "惠州市", "cityNumber": "441300000000"}, {"cityName": "梅州市", "cityNumber": "441400000000"}, {"cityName": "汕尾市", "cityNumber": "441500000000"}, {"cityName": "河源市", "cityNumber": "441600000000"}, {"cityName": "阳江市", "cityNumber": "441700000000"}, {"cityName": "清远市", "cityNumber": "441800000000"}, {"cityName": "东莞市", "cityNumber": "441900000000"}, {"cityName": "中山市", "cityNumber": "442000000000"}, {"cityName": "潮州市", "cityNumber": "445100000000"}, {"cityName": "揭阳市", "cityNumber": "445200000000"}, {"cityName": "云浮市", "cityNumber": "445300000000"}], "provinceName": "广东省"}, {"cities": [{"cityName": "南宁市", "cityNumber": "450100000000"}, {"cityName": "柳州市", "cityNumber": "450200000000"}, {"cityName": "桂林市", "cityNumber": "450300000000"}, {"cityName": "梧州市", "cityNumber": "450400000000"}, {"cityName": "北海市", "cityNumber": "450500000000"}, {"cityName": "防城港市", "cityNumber": "450600000000"}, {"cityName": "钦州市", "cityNumber": "450700000000"}, {"cityName": "贵港市", "cityNumber": "450800000000"}, {"cityName": "玉林市", "cityNumber": "450900000000"}, {"cityName": "百色市", "cityNumber": "451000000000"}, {"cityName": "贺州市", "cityNumber": "451100000000"}, {"cityName": "河池市", "cityNumber": "451200000000"}, {"cityName": "来宾市", "cityNumber": "451300000000"}, {"cityName": "崇左市", "cityNumber": "451400000000"}], "provinceName": "广西壮族自治区"}, {"cities": [{"cityName": "海口市", "cityNumber": "460100000000"}, {"cityName": "三亚市", "cityNumber": "460200000000"}, {"cityName": "三沙市", "cityNumber": "460300000000"}, {"cityName": "儋州市", "cityNumber": "460400000000"}, {"cityName": "省直辖县级行政区划", "cityNumber": "469000000000"}], "provinceName": "海南省"}, {"cities": [{"cityName": "市辖区", "cityNumber": "500100000000"}, {"cityName": "县", "cityNumber": "500200000000"}], "provinceName": "重庆市"}, {"cities": [{"cityName": "成都市", "cityNumber": "510100000000"}, {"cityName": "自贡市", "cityNumber": "510300000000"}, {"cityName": "攀枝花市", "cityNumber": "510400000000"}, {"cityName": "泸州市", "cityNumber": "510500000000"}, {"cityName": "德阳市", "cityNumber": "510600000000"}, {"cityName": "绵阳市", "cityNumber": "510700000000"}, {"cityName": "广元市", "cityNumber": "510800000000"}, {"cityName": "遂宁市", "cityNumber": "510900000000"}, {"cityName": "内江市", "cityNumber": "511000000000"}, {"cityName": "乐山市", "cityNumber": "511100000000"}, {"cityName": "南充市", "cityNumber": "511300000000"}, {"cityName": "眉山市", "cityNumber": "511400000000"}, {"cityName": "宜宾市", "cityNumber": "511500000000"}, {"cityName": "广安市", "cityNumber": "511600000000"}, {"cityName": "达州市", "cityNumber": "511700000000"}, {"cityName": "雅安市", "cityNumber": "511800000000"}, {"cityName": "巴中市", "cityNumber": "511900000000"}, {"cityName": "资阳市", "cityNumber": "512000000000"}, {"cityName": "阿坝藏族羌族自治州", "cityNumber": "513200000000"}, {"cityName": "甘孜藏族自治州", "cityNumber": "513300000000"}, {"cityName": "凉山彝族自治州", "cityNumber": "513400000000"}], "provinceName": "四川省"}, {"cities": [{"cityName": "贵阳市", "cityNumber": "520100000000"}, {"cityName": "六盘水市", "cityNumber": "520200000000"}, {"cityName": "遵义市", "cityNumber": "520300000000"}, {"cityName": "安顺市", "cityNumber": "520400000000"}, {"cityName": "毕节市", "cityNumber": "520500000000"}, {"cityName": "铜仁市", "cityNumber": "520600000000"}, {"cityName": "黔西南布依族苗族自治州", "cityNumber": "522300000000"}, {"cityName": "黔东南苗族侗族自治州", "cityNumber": "522600000000"}, {"cityName": "黔南布依族苗族自治州", "cityNumber": "522700000000"}], "provinceName": "贵州省"}, {"cities": [{"cityName": "昆明市", "cityNumber": "530100000000"}, {"cityName": "曲靖市", "cityNumber": "530300000000"}, {"cityName": "玉溪市", "cityNumber": "530400000000"}, {"cityName": "保山市", "cityNumber": "530500000000"}, {"cityName": "昭通市", "cityNumber": "530600000000"}, {"cityName": "丽江市", "cityNumber": "530700000000"}, {"cityName": "普洱市", "cityNumber": "530800000000"}, {"cityName": "临沧市", "cityNumber": "530900000000"}, {"cityName": "楚雄彝族自治州", "cityNumber": "532300000000"}, {"cityName": "红河哈尼族彝族自治州", "cityNumber": "532500000000"}, {"cityName": "文山壮族苗族自治州", "cityNumber": "532600000000"}, {"cityName": "西双版纳傣族自治州", "cityNumber": "532800000000"}, {"cityName": "大理白族自治州", "cityNumber": "532900000000"}, {"cityName": "德宏傣族景颇族自治州", "cityNumber": "533100000000"}, {"cityName": "怒江傈僳族自治州", "cityNumber": "533300000000"}, {"cityName": "迪庆藏族自治州", "cityNumber": "533400000000"}], "provinceName": "云南省"}, {"cities": [{"cityName": "拉萨市", "cityNumber": "540100000000"}, {"cityName": "日喀则市", "cityNumber": "540200000000"}, {"cityName": "昌都市", "cityNumber": "540300000000"}, {"cityName": "林芝市", "cityNumber": "540400000000"}, {"cityName": "山南市", "cityNumber": "540500000000"}, {"cityName": "那曲地区", "cityNumber": "542400000000"}, {"cityName": "阿里地区", "cityNumber": "542500000000"}], "provinceName": "西藏自治区"}, {"cities": [{"cityName": "西安市", "cityNumber": "610100000000"}, {"cityName": "铜川市", "cityNumber": "610200000000"}, {"cityName": "宝鸡市", "cityNumber": "610300000000"}, {"cityName": "咸阳市", "cityNumber": "610400000000"}, {"cityName": "渭南市", "cityNumber": "610500000000"}, {"cityName": "延安市", "cityNumber": "610600000000"}, {"cityName": "汉中市", "cityNumber": "610700000000"}, {"cityName": "榆林市", "cityNumber": "610800000000"}, {"cityName": "安康市", "cityNumber": "610900000000"}, {"cityName": "商洛市", "cityNumber": "611000000000"}], "provinceName": "陕西省"}, {"cities": [{"cityName": "兰州市", "cityNumber": "620100000000"}, {"cityName": "嘉峪关市", "cityNumber": "620200000000"}, {"cityName": "金昌市", "cityNumber": "620300000000"}, {"cityName": "白银市", "cityNumber": "620400000000"}, {"cityName": "天水市", "cityNumber": "620500000000"}, {"cityName": "武威市", "cityNumber": "620600000000"}, {"cityName": "张掖市", "cityNumber": "620700000000"}, {"cityName": "平凉市", "cityNumber": "620800000000"}, {"cityName": "酒泉市", "cityNumber": "620900000000"}, {"cityName": "庆阳市", "cityNumber": "621000000000"}, {"cityName": "定西市", "cityNumber": "621100000000"}, {"cityName": "陇南市", "cityNumber": "621200000000"}, {"cityName": "临夏回族自治州", "cityNumber": "622900000000"}, {"cityName": "甘南藏族自治州", "cityNumber": "623000000000"}], "provinceName": "甘肃省"}, {"cities": [{"cityName": "西宁市", "cityNumber": "630100000000"}, {"cityName": "海东市", "cityNumber": "630200000000"}, {"cityName": "海北藏族自治州", "cityNumber": "632200000000"}, {"cityName": "黄南藏族自治州", "cityNumber": "632300000000"}, {"cityName": "海南藏族自治州", "cityNumber": "632500000000"}, {"cityName": "果洛藏族自治州", "cityNumber": "632600000000"}, {"cityName": "玉树藏族自治州", "cityNumber": "632700000000"}, {"cityName": "海西蒙古族藏族自治州", "cityNumber": "632800000000"}], "provinceName": "青海省"}, {"cities": [{"cityName": "银川市", "cityNumber": "640100000000"}, {"cityName": "石嘴山市", "cityNumber": "640200000000"}, {"cityName": "吴忠市", "cityNumber": "640300000000"}, {"cityName": "固原市", "cityNumber": "640400000000"}, {"cityName": "中卫市", "cityNumber": "640500000000"}], "provinceName": "宁夏回族自治区"}, {"cities": [{"cityName": "乌鲁木齐市", "cityNumber": "650100000000"}, {"cityName": "克拉玛依市", "cityNumber": "650200000000"}, {"cityName": "吐鲁番市", "cityNumber": "650400000000"}, {"cityName": "哈密市", "cityNumber": "650500000000"}, {"cityName": "昌吉回族自治州", "cityNumber": "652300000000"}, {"cityName": "博尔塔拉蒙古自治州", "cityNumber": "652700000000"}, {"cityName": "巴音郭楞蒙古自治州", "cityNumber": "652800000000"}, {"cityName": "阿克苏地区", "cityNumber": "652900000000"}, {"cityName": "克孜勒苏柯尔克孜自治州", "cityNumber": "653000000000"}, {"cityName": "喀什地区", "cityNumber": "653100000000"}, {"cityName": "和田地区", "cityNumber": "653200000000"}, {"cityName": "伊犁哈萨克自治州", "cityNumber": "654000000000"}, {"cityName": "塔城地区", "cityNumber": "654200000000"}, {"cityName": "阿勒泰地区", "cityNumber": "654300000000"}, {"cityName": "自治区直辖县级行政区划", "cityNumber": "659000000000"}], "provinceName": "新疆维吾尔自治区"}]}
+{"provinces": [
+    {
+        "cities": [{
+            "cityName": "市辖区",
+            "cityNumber": "110100000000"
+        }],
+        "provinceName": "北京市"
+    },
+    {
+        "cities": [{
+            "cityName": "市辖区",
+            "cityNumber": "120100000000"
+        }],
+        "provinceName": "天津市"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "石家庄市",
+                "cityNumber": "130100000000"
+            },
+            {
+                "cityName": "唐山市",
+                "cityNumber": "130200000000"
+            },
+            {
+                "cityName": "秦皇岛市",
+                "cityNumber": "130300000000"
+            },
+            {
+                "cityName": "邯郸市",
+                "cityNumber": "130400000000"
+            },
+            {
+                "cityName": "邢台市",
+                "cityNumber": "130500000000"
+            },
+            {
+                "cityName": "保定市",
+                "cityNumber": "130600000000"
+            },
+            {
+                "cityName": "张家口市",
+                "cityNumber": "130700000000"
+            },
+            {
+                "cityName": "承德市",
+                "cityNumber": "130800000000"
+            },
+            {
+                "cityName": "沧州市",
+                "cityNumber": "130900000000"
+            },
+            {
+                "cityName": "廊坊市",
+                "cityNumber": "131000000000"
+            },
+            {
+                "cityName": "衡水市",
+                "cityNumber": "131100000000"
+            }
+        ],
+        "provinceName": "河北省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "太原市",
+                "cityNumber": "140100000000"
+            },
+            {
+                "cityName": "大同市",
+                "cityNumber": "140200000000"
+            },
+            {
+                "cityName": "阳泉市",
+                "cityNumber": "140300000000"
+            },
+            {
+                "cityName": "长治市",
+                "cityNumber": "140400000000"
+            },
+            {
+                "cityName": "晋城市",
+                "cityNumber": "140500000000"
+            },
+            {
+                "cityName": "朔州市",
+                "cityNumber": "140600000000"
+            },
+            {
+                "cityName": "晋中市",
+                "cityNumber": "140700000000"
+            },
+            {
+                "cityName": "运城市",
+                "cityNumber": "140800000000"
+            },
+            {
+                "cityName": "忻州市",
+                "cityNumber": "140900000000"
+            },
+            {
+                "cityName": "临汾市",
+                "cityNumber": "141000000000"
+            },
+            {
+                "cityName": "吕梁市",
+                "cityNumber": "141100000000"
+            }
+        ],
+        "provinceName": "山西省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "呼和浩特市",
+                "cityNumber": "150100000000"
+            },
+            {
+                "cityName": "包头市",
+                "cityNumber": "150200000000"
+            },
+            {
+                "cityName": "乌海市",
+                "cityNumber": "150300000000"
+            },
+            {
+                "cityName": "赤峰市",
+                "cityNumber": "150400000000"
+            },
+            {
+                "cityName": "通辽市",
+                "cityNumber": "150500000000"
+            },
+            {
+                "cityName": "鄂尔多斯市",
+                "cityNumber": "150600000000"
+            },
+            {
+                "cityName": "呼伦贝尔市",
+                "cityNumber": "150700000000"
+            },
+            {
+                "cityName": "巴彦淖尔市",
+                "cityNumber": "150800000000"
+            },
+            {
+                "cityName": "乌兰察布市",
+                "cityNumber": "150900000000"
+            },
+            {
+                "cityName": "兴安盟",
+                "cityNumber": "152200000000"
+            },
+            {
+                "cityName": "锡林郭勒盟",
+                "cityNumber": "152500000000"
+            },
+            {
+                "cityName": "阿拉善盟",
+                "cityNumber": "152900000000"
+            }
+        ],
+        "provinceName": "内蒙古自治区"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "沈阳市",
+                "cityNumber": "210100000000"
+            },
+            {
+                "cityName": "大连市",
+                "cityNumber": "210200000000"
+            },
+            {
+                "cityName": "鞍山市",
+                "cityNumber": "210300000000"
+            },
+            {
+                "cityName": "抚顺市",
+                "cityNumber": "210400000000"
+            },
+            {
+                "cityName": "本溪市",
+                "cityNumber": "210500000000"
+            },
+            {
+                "cityName": "丹东市",
+                "cityNumber": "210600000000"
+            },
+            {
+                "cityName": "锦州市",
+                "cityNumber": "210700000000"
+            },
+            {
+                "cityName": "营口市",
+                "cityNumber": "210800000000"
+            },
+            {
+                "cityName": "阜新市",
+                "cityNumber": "210900000000"
+            },
+            {
+                "cityName": "辽阳市",
+                "cityNumber": "211000000000"
+            },
+            {
+                "cityName": "盘锦市",
+                "cityNumber": "211100000000"
+            },
+            {
+                "cityName": "铁岭市",
+                "cityNumber": "211200000000"
+            },
+            {
+                "cityName": "朝阳市",
+                "cityNumber": "211300000000"
+            },
+            {
+                "cityName": "葫芦岛市",
+                "cityNumber": "211400000000"
+            }
+        ],
+        "provinceName": "辽宁省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "长春市",
+                "cityNumber": "220100000000"
+            },
+            {
+                "cityName": "吉林市",
+                "cityNumber": "220200000000"
+            },
+            {
+                "cityName": "四平市",
+                "cityNumber": "220300000000"
+            },
+            {
+                "cityName": "辽源市",
+                "cityNumber": "220400000000"
+            },
+            {
+                "cityName": "通化市",
+                "cityNumber": "220500000000"
+            },
+            {
+                "cityName": "白山市",
+                "cityNumber": "220600000000"
+            },
+            {
+                "cityName": "松原市",
+                "cityNumber": "220700000000"
+            },
+            {
+                "cityName": "白城市",
+                "cityNumber": "220800000000"
+            },
+            {
+                "cityName": "延边朝鲜族自治州",
+                "cityNumber": "222400000000"
+            }
+        ],
+        "provinceName": "吉林省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "哈尔滨市",
+                "cityNumber": "230100000000"
+            },
+            {
+                "cityName": "齐齐哈尔市",
+                "cityNumber": "230200000000"
+            },
+            {
+                "cityName": "鸡西市",
+                "cityNumber": "230300000000"
+            },
+            {
+                "cityName": "鹤岗市",
+                "cityNumber": "230400000000"
+            },
+            {
+                "cityName": "双鸭山市",
+                "cityNumber": "230500000000"
+            },
+            {
+                "cityName": "大庆市",
+                "cityNumber": "230600000000"
+            },
+            {
+                "cityName": "伊春市",
+                "cityNumber": "230700000000"
+            },
+            {
+                "cityName": "佳木斯市",
+                "cityNumber": "230800000000"
+            },
+            {
+                "cityName": "七台河市",
+                "cityNumber": "230900000000"
+            },
+            {
+                "cityName": "牡丹江市",
+                "cityNumber": "231000000000"
+            },
+            {
+                "cityName": "黑河市",
+                "cityNumber": "231100000000"
+            },
+            {
+                "cityName": "绥化市",
+                "cityNumber": "231200000000"
+            },
+            {
+                "cityName": "大兴安岭地区",
+                "cityNumber": "232700000000"
+            }
+        ],
+        "provinceName": "黑龙江省"
+    },
+    {
+        "cities": [{
+            "cityName": "市辖区",
+            "cityNumber": "310100000000"
+        }],
+        "provinceName": "上海市"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "南京市",
+                "cityNumber": "320100000000"
+            },
+            {
+                "cityName": "无锡市",
+                "cityNumber": "320200000000"
+            },
+            {
+                "cityName": "徐州市",
+                "cityNumber": "320300000000"
+            },
+            {
+                "cityName": "常州市",
+                "cityNumber": "320400000000"
+            },
+            {
+                "cityName": "苏州市",
+                "cityNumber": "320500000000"
+            },
+            {
+                "cityName": "南通市",
+                "cityNumber": "320600000000"
+            },
+            {
+                "cityName": "连云港市",
+                "cityNumber": "320700000000"
+            },
+            {
+                "cityName": "淮安市",
+                "cityNumber": "320800000000"
+            },
+            {
+                "cityName": "盐城市",
+                "cityNumber": "320900000000"
+            },
+            {
+                "cityName": "扬州市",
+                "cityNumber": "321000000000"
+            },
+            {
+                "cityName": "镇江市",
+                "cityNumber": "321100000000"
+            },
+            {
+                "cityName": "泰州市",
+                "cityNumber": "321200000000"
+            },
+            {
+                "cityName": "宿迁市",
+                "cityNumber": "321300000000"
+            }
+        ],
+        "provinceName": "江苏省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "杭州市",
+                "cityNumber": "330100000000"
+            },
+            {
+                "cityName": "宁波市",
+                "cityNumber": "330200000000"
+            },
+            {
+                "cityName": "温州市",
+                "cityNumber": "330300000000"
+            },
+            {
+                "cityName": "嘉兴市",
+                "cityNumber": "330400000000"
+            },
+            {
+                "cityName": "湖州市",
+                "cityNumber": "330500000000"
+            },
+            {
+                "cityName": "绍兴市",
+                "cityNumber": "330600000000"
+            },
+            {
+                "cityName": "金华市",
+                "cityNumber": "330700000000"
+            },
+            {
+                "cityName": "衢州市",
+                "cityNumber": "330800000000"
+            },
+            {
+                "cityName": "舟山市",
+                "cityNumber": "330900000000"
+            },
+            {
+                "cityName": "台州市",
+                "cityNumber": "331000000000"
+            },
+            {
+                "cityName": "丽水市",
+                "cityNumber": "331100000000"
+            }
+        ],
+        "provinceName": "浙江省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "合肥市",
+                "cityNumber": "340100000000"
+            },
+            {
+                "cityName": "芜湖市",
+                "cityNumber": "340200000000"
+            },
+            {
+                "cityName": "蚌埠市",
+                "cityNumber": "340300000000"
+            },
+            {
+                "cityName": "淮南市",
+                "cityNumber": "340400000000"
+            },
+            {
+                "cityName": "马鞍山市",
+                "cityNumber": "340500000000"
+            },
+            {
+                "cityName": "淮北市",
+                "cityNumber": "340600000000"
+            },
+            {
+                "cityName": "铜陵市",
+                "cityNumber": "340700000000"
+            },
+            {
+                "cityName": "安庆市",
+                "cityNumber": "340800000000"
+            },
+            {
+                "cityName": "黄山市",
+                "cityNumber": "341000000000"
+            },
+            {
+                "cityName": "滁州市",
+                "cityNumber": "341100000000"
+            },
+            {
+                "cityName": "阜阳市",
+                "cityNumber": "341200000000"
+            },
+            {
+                "cityName": "宿州市",
+                "cityNumber": "341300000000"
+            },
+            {
+                "cityName": "六安市",
+                "cityNumber": "341500000000"
+            },
+            {
+                "cityName": "亳州市",
+                "cityNumber": "341600000000"
+            },
+            {
+                "cityName": "池州市",
+                "cityNumber": "341700000000"
+            },
+            {
+                "cityName": "宣城市",
+                "cityNumber": "341800000000"
+            }
+        ],
+        "provinceName": "安徽省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "福州市",
+                "cityNumber": "350100000000"
+            },
+            {
+                "cityName": "厦门市",
+                "cityNumber": "350200000000"
+            },
+            {
+                "cityName": "莆田市",
+                "cityNumber": "350300000000"
+            },
+            {
+                "cityName": "三明市",
+                "cityNumber": "350400000000"
+            },
+            {
+                "cityName": "泉州市",
+                "cityNumber": "350500000000"
+            },
+            {
+                "cityName": "漳州市",
+                "cityNumber": "350600000000"
+            },
+            {
+                "cityName": "南平市",
+                "cityNumber": "350700000000"
+            },
+            {
+                "cityName": "龙岩市",
+                "cityNumber": "350800000000"
+            },
+            {
+                "cityName": "宁德市",
+                "cityNumber": "350900000000"
+            }
+        ],
+        "provinceName": "福建省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "南昌市",
+                "cityNumber": "360100000000"
+            },
+            {
+                "cityName": "景德镇市",
+                "cityNumber": "360200000000"
+            },
+            {
+                "cityName": "萍乡市",
+                "cityNumber": "360300000000"
+            },
+            {
+                "cityName": "九江市",
+                "cityNumber": "360400000000"
+            },
+            {
+                "cityName": "新余市",
+                "cityNumber": "360500000000"
+            },
+            {
+                "cityName": "鹰潭市",
+                "cityNumber": "360600000000"
+            },
+            {
+                "cityName": "赣州市",
+                "cityNumber": "360700000000"
+            },
+            {
+                "cityName": "吉安市",
+                "cityNumber": "360800000000"
+            },
+            {
+                "cityName": "宜春市",
+                "cityNumber": "360900000000"
+            },
+            {
+                "cityName": "抚州市",
+                "cityNumber": "361000000000"
+            },
+            {
+                "cityName": "上饶市",
+                "cityNumber": "361100000000"
+            }
+        ],
+        "provinceName": "江西省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "济南市",
+                "cityNumber": "370100000000"
+            },
+            {
+                "cityName": "青岛市",
+                "cityNumber": "370200000000"
+            },
+            {
+                "cityName": "淄博市",
+                "cityNumber": "370300000000"
+            },
+            {
+                "cityName": "枣庄市",
+                "cityNumber": "370400000000"
+            },
+            {
+                "cityName": "东营市",
+                "cityNumber": "370500000000"
+            },
+            {
+                "cityName": "烟台市",
+                "cityNumber": "370600000000"
+            },
+            {
+                "cityName": "潍坊市",
+                "cityNumber": "370700000000"
+            },
+            {
+                "cityName": "济宁市",
+                "cityNumber": "370800000000"
+            },
+            {
+                "cityName": "泰安市",
+                "cityNumber": "370900000000"
+            },
+            {
+                "cityName": "威海市",
+                "cityNumber": "371000000000"
+            },
+            {
+                "cityName": "日照市",
+                "cityNumber": "371100000000"
+            },
+            {
+                "cityName": "莱芜市",
+                "cityNumber": "371200000000"
+            },
+            {
+                "cityName": "临沂市",
+                "cityNumber": "371300000000"
+            },
+            {
+                "cityName": "德州市",
+                "cityNumber": "371400000000"
+            },
+            {
+                "cityName": "聊城市",
+                "cityNumber": "371500000000"
+            },
+            {
+                "cityName": "滨州市",
+                "cityNumber": "371600000000"
+            },
+            {
+                "cityName": "菏泽市",
+                "cityNumber": "371700000000"
+            }
+        ],
+        "provinceName": "山东省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "郑州市",
+                "cityNumber": "410100000000"
+            },
+            {
+                "cityName": "开封市",
+                "cityNumber": "410200000000"
+            },
+            {
+                "cityName": "洛阳市",
+                "cityNumber": "410300000000"
+            },
+            {
+                "cityName": "平顶山市",
+                "cityNumber": "410400000000"
+            },
+            {
+                "cityName": "安阳市",
+                "cityNumber": "410500000000"
+            },
+            {
+                "cityName": "鹤壁市",
+                "cityNumber": "410600000000"
+            },
+            {
+                "cityName": "新乡市",
+                "cityNumber": "410700000000"
+            },
+            {
+                "cityName": "焦作市",
+                "cityNumber": "410800000000"
+            },
+            {
+                "cityName": "濮阳市",
+                "cityNumber": "410900000000"
+            },
+            {
+                "cityName": "许昌市",
+                "cityNumber": "411000000000"
+            },
+            {
+                "cityName": "漯河市",
+                "cityNumber": "411100000000"
+            },
+            {
+                "cityName": "三门峡市",
+                "cityNumber": "411200000000"
+            },
+            {
+                "cityName": "南阳市",
+                "cityNumber": "411300000000"
+            },
+            {
+                "cityName": "商丘市",
+                "cityNumber": "411400000000"
+            },
+            {
+                "cityName": "信阳市",
+                "cityNumber": "411500000000"
+            },
+            {
+                "cityName": "周口市",
+                "cityNumber": "411600000000"
+            },
+            {
+                "cityName": "驻马店市",
+                "cityNumber": "411700000000"
+            },
+            {
+                "cityName": "省直辖县级行政区划",
+                "cityNumber": "419000000000"
+            }
+        ],
+        "provinceName": "河南省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "武汉市",
+                "cityNumber": "420100000000"
+            },
+            {
+                "cityName": "黄石市",
+                "cityNumber": "420200000000"
+            },
+            {
+                "cityName": "十堰市",
+                "cityNumber": "420300000000"
+            },
+            {
+                "cityName": "宜昌市",
+                "cityNumber": "420500000000"
+            },
+            {
+                "cityName": "襄阳市",
+                "cityNumber": "420600000000"
+            },
+            {
+                "cityName": "鄂州市",
+                "cityNumber": "420700000000"
+            },
+            {
+                "cityName": "荆门市",
+                "cityNumber": "420800000000"
+            },
+            {
+                "cityName": "孝感市",
+                "cityNumber": "420900000000"
+            },
+            {
+                "cityName": "荆州市",
+                "cityNumber": "421000000000"
+            },
+            {
+                "cityName": "黄冈市",
+                "cityNumber": "421100000000"
+            },
+            {
+                "cityName": "咸宁市",
+                "cityNumber": "421200000000"
+            },
+            {
+                "cityName": "随州市",
+                "cityNumber": "421300000000"
+            },
+            {
+                "cityName": "恩施土家族苗族自治州",
+                "cityNumber": "422800000000"
+            },
+            {
+                "cityName": "省直辖县级行政区划",
+                "cityNumber": "429000000000"
+            }
+        ],
+        "provinceName": "湖北省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "长沙市",
+                "cityNumber": "430100000000"
+            },
+            {
+                "cityName": "株洲市",
+                "cityNumber": "430200000000"
+            },
+            {
+                "cityName": "湘潭市",
+                "cityNumber": "430300000000"
+            },
+            {
+                "cityName": "衡阳市",
+                "cityNumber": "430400000000"
+            },
+            {
+                "cityName": "邵阳市",
+                "cityNumber": "430500000000"
+            },
+            {
+                "cityName": "岳阳市",
+                "cityNumber": "430600000000"
+            },
+            {
+                "cityName": "常德市",
+                "cityNumber": "430700000000"
+            },
+            {
+                "cityName": "张家界市",
+                "cityNumber": "430800000000"
+            },
+            {
+                "cityName": "益阳市",
+                "cityNumber": "430900000000"
+            },
+            {
+                "cityName": "郴州市",
+                "cityNumber": "431000000000"
+            },
+            {
+                "cityName": "永州市",
+                "cityNumber": "431100000000"
+            },
+            {
+                "cityName": "怀化市",
+                "cityNumber": "431200000000"
+            },
+            {
+                "cityName": "娄底市",
+                "cityNumber": "431300000000"
+            },
+            {
+                "cityName": "湘西土家族苗族自治州",
+                "cityNumber": "433100000000"
+            }
+        ],
+        "provinceName": "湖南省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "广州市",
+                "cityNumber": "440100000000"
+            },
+            {
+                "cityName": "韶关市",
+                "cityNumber": "440200000000"
+            },
+            {
+                "cityName": "深圳市",
+                "cityNumber": "440300000000"
+            },
+            {
+                "cityName": "珠海市",
+                "cityNumber": "440400000000"
+            },
+            {
+                "cityName": "汕头市",
+                "cityNumber": "440500000000"
+            },
+            {
+                "cityName": "佛山市",
+                "cityNumber": "440600000000"
+            },
+            {
+                "cityName": "江门市",
+                "cityNumber": "440700000000"
+            },
+            {
+                "cityName": "湛江市",
+                "cityNumber": "440800000000"
+            },
+            {
+                "cityName": "茂名市",
+                "cityNumber": "440900000000"
+            },
+            {
+                "cityName": "肇庆市",
+                "cityNumber": "441200000000"
+            },
+            {
+                "cityName": "惠州市",
+                "cityNumber": "441300000000"
+            },
+            {
+                "cityName": "梅州市",
+                "cityNumber": "441400000000"
+            },
+            {
+                "cityName": "汕尾市",
+                "cityNumber": "441500000000"
+            },
+            {
+                "cityName": "河源市",
+                "cityNumber": "441600000000"
+            },
+            {
+                "cityName": "阳江市",
+                "cityNumber": "441700000000"
+            },
+            {
+                "cityName": "清远市",
+                "cityNumber": "441800000000"
+            },
+            {
+                "cityName": "东莞市",
+                "cityNumber": "441900000000"
+            },
+            {
+                "cityName": "中山市",
+                "cityNumber": "442000000000"
+            },
+            {
+                "cityName": "潮州市",
+                "cityNumber": "445100000000"
+            },
+            {
+                "cityName": "揭阳市",
+                "cityNumber": "445200000000"
+            },
+            {
+                "cityName": "云浮市",
+                "cityNumber": "445300000000"
+            }
+        ],
+        "provinceName": "广东省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "南宁市",
+                "cityNumber": "450100000000"
+            },
+            {
+                "cityName": "柳州市",
+                "cityNumber": "450200000000"
+            },
+            {
+                "cityName": "桂林市",
+                "cityNumber": "450300000000"
+            },
+            {
+                "cityName": "梧州市",
+                "cityNumber": "450400000000"
+            },
+            {
+                "cityName": "北海市",
+                "cityNumber": "450500000000"
+            },
+            {
+                "cityName": "防城港市",
+                "cityNumber": "450600000000"
+            },
+            {
+                "cityName": "钦州市",
+                "cityNumber": "450700000000"
+            },
+            {
+                "cityName": "贵港市",
+                "cityNumber": "450800000000"
+            },
+            {
+                "cityName": "玉林市",
+                "cityNumber": "450900000000"
+            },
+            {
+                "cityName": "百色市",
+                "cityNumber": "451000000000"
+            },
+            {
+                "cityName": "贺州市",
+                "cityNumber": "451100000000"
+            },
+            {
+                "cityName": "河池市",
+                "cityNumber": "451200000000"
+            },
+            {
+                "cityName": "来宾市",
+                "cityNumber": "451300000000"
+            },
+            {
+                "cityName": "崇左市",
+                "cityNumber": "451400000000"
+            }
+        ],
+        "provinceName": "广西壮族自治区"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "海口市",
+                "cityNumber": "460100000000"
+            },
+            {
+                "cityName": "三亚市",
+                "cityNumber": "460200000000"
+            },
+            {
+                "cityName": "三沙市",
+                "cityNumber": "460300000000"
+            },
+            {
+                "cityName": "儋州市",
+                "cityNumber": "460400000000"
+            },
+            {
+                "cityName": "省直辖县级行政区划",
+                "cityNumber": "469000000000"
+            }
+        ],
+        "provinceName": "海南省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "市辖区",
+                "cityNumber": "500100000000"
+            },
+            {
+                "cityName": "县",
+                "cityNumber": "500200000000"
+            }
+        ],
+        "provinceName": "重庆市"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "成都市",
+                "cityNumber": "510100000000"
+            },
+            {
+                "cityName": "自贡市",
+                "cityNumber": "510300000000"
+            },
+            {
+                "cityName": "攀枝花市",
+                "cityNumber": "510400000000"
+            },
+            {
+                "cityName": "泸州市",
+                "cityNumber": "510500000000"
+            },
+            {
+                "cityName": "德阳市",
+                "cityNumber": "510600000000"
+            },
+            {
+                "cityName": "绵阳市",
+                "cityNumber": "510700000000"
+            },
+            {
+                "cityName": "广元市",
+                "cityNumber": "510800000000"
+            },
+            {
+                "cityName": "遂宁市",
+                "cityNumber": "510900000000"
+            },
+            {
+                "cityName": "内江市",
+                "cityNumber": "511000000000"
+            },
+            {
+                "cityName": "乐山市",
+                "cityNumber": "511100000000"
+            },
+            {
+                "cityName": "南充市",
+                "cityNumber": "511300000000"
+            },
+            {
+                "cityName": "眉山市",
+                "cityNumber": "511400000000"
+            },
+            {
+                "cityName": "宜宾市",
+                "cityNumber": "511500000000"
+            },
+            {
+                "cityName": "广安市",
+                "cityNumber": "511600000000"
+            },
+            {
+                "cityName": "达州市",
+                "cityNumber": "511700000000"
+            },
+            {
+                "cityName": "雅安市",
+                "cityNumber": "511800000000"
+            },
+            {
+                "cityName": "巴中市",
+                "cityNumber": "511900000000"
+            },
+            {
+                "cityName": "资阳市",
+                "cityNumber": "512000000000"
+            },
+            {
+                "cityName": "阿坝藏族羌族自治州",
+                "cityNumber": "513200000000"
+            },
+            {
+                "cityName": "甘孜藏族自治州",
+                "cityNumber": "513300000000"
+            },
+            {
+                "cityName": "凉山彝族自治州",
+                "cityNumber": "513400000000"
+            }
+        ],
+        "provinceName": "四川省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "贵阳市",
+                "cityNumber": "520100000000"
+            },
+            {
+                "cityName": "六盘水市",
+                "cityNumber": "520200000000"
+            },
+            {
+                "cityName": "遵义市",
+                "cityNumber": "520300000000"
+            },
+            {
+                "cityName": "安顺市",
+                "cityNumber": "520400000000"
+            },
+            {
+                "cityName": "毕节市",
+                "cityNumber": "520500000000"
+            },
+            {
+                "cityName": "铜仁市",
+                "cityNumber": "520600000000"
+            },
+            {
+                "cityName": "黔西南布依族苗族自治州",
+                "cityNumber": "522300000000"
+            },
+            {
+                "cityName": "黔东南苗族侗族自治州",
+                "cityNumber": "522600000000"
+            },
+            {
+                "cityName": "黔南布依族苗族自治州",
+                "cityNumber": "522700000000"
+            }
+        ],
+        "provinceName": "贵州省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "昆明市",
+                "cityNumber": "530100000000"
+            },
+            {
+                "cityName": "曲靖市",
+                "cityNumber": "530300000000"
+            },
+            {
+                "cityName": "玉溪市",
+                "cityNumber": "530400000000"
+            },
+            {
+                "cityName": "保山市",
+                "cityNumber": "530500000000"
+            },
+            {
+                "cityName": "昭通市",
+                "cityNumber": "530600000000"
+            },
+            {
+                "cityName": "丽江市",
+                "cityNumber": "530700000000"
+            },
+            {
+                "cityName": "普洱市",
+                "cityNumber": "530800000000"
+            },
+            {
+                "cityName": "临沧市",
+                "cityNumber": "530900000000"
+            },
+            {
+                "cityName": "楚雄彝族自治州",
+                "cityNumber": "532300000000"
+            },
+            {
+                "cityName": "红河哈尼族彝族自治州",
+                "cityNumber": "532500000000"
+            },
+            {
+                "cityName": "文山壮族苗族自治州",
+                "cityNumber": "532600000000"
+            },
+            {
+                "cityName": "西双版纳傣族自治州",
+                "cityNumber": "532800000000"
+            },
+            {
+                "cityName": "大理白族自治州",
+                "cityNumber": "532900000000"
+            },
+            {
+                "cityName": "德宏傣族景颇族自治州",
+                "cityNumber": "533100000000"
+            },
+            {
+                "cityName": "怒江傈僳族自治州",
+                "cityNumber": "533300000000"
+            },
+            {
+                "cityName": "迪庆藏族自治州",
+                "cityNumber": "533400000000"
+            }
+        ],
+        "provinceName": "云南省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "拉萨市",
+                "cityNumber": "540100000000"
+            },
+            {
+                "cityName": "日喀则市",
+                "cityNumber": "540200000000"
+            },
+            {
+                "cityName": "昌都市",
+                "cityNumber": "540300000000"
+            },
+            {
+                "cityName": "林芝市",
+                "cityNumber": "540400000000"
+            },
+            {
+                "cityName": "山南市",
+                "cityNumber": "540500000000"
+            },
+            {
+                "cityName": "那曲地区",
+                "cityNumber": "542400000000"
+            },
+            {
+                "cityName": "阿里地区",
+                "cityNumber": "542500000000"
+            }
+        ],
+        "provinceName": "西藏自治区"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "西安市",
+                "cityNumber": "610100000000"
+            },
+            {
+                "cityName": "铜川市",
+                "cityNumber": "610200000000"
+            },
+            {
+                "cityName": "宝鸡市",
+                "cityNumber": "610300000000"
+            },
+            {
+                "cityName": "咸阳市",
+                "cityNumber": "610400000000"
+            },
+            {
+                "cityName": "渭南市",
+                "cityNumber": "610500000000"
+            },
+            {
+                "cityName": "延安市",
+                "cityNumber": "610600000000"
+            },
+            {
+                "cityName": "汉中市",
+                "cityNumber": "610700000000"
+            },
+            {
+                "cityName": "榆林市",
+                "cityNumber": "610800000000"
+            },
+            {
+                "cityName": "安康市",
+                "cityNumber": "610900000000"
+            },
+            {
+                "cityName": "商洛市",
+                "cityNumber": "611000000000"
+            }
+        ],
+        "provinceName": "陕西省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "兰州市",
+                "cityNumber": "620100000000"
+            },
+            {
+                "cityName": "嘉峪关市",
+                "cityNumber": "620200000000"
+            },
+            {
+                "cityName": "金昌市",
+                "cityNumber": "620300000000"
+            },
+            {
+                "cityName": "白银市",
+                "cityNumber": "620400000000"
+            },
+            {
+                "cityName": "天水市",
+                "cityNumber": "620500000000"
+            },
+            {
+                "cityName": "武威市",
+                "cityNumber": "620600000000"
+            },
+            {
+                "cityName": "张掖市",
+                "cityNumber": "620700000000"
+            },
+            {
+                "cityName": "平凉市",
+                "cityNumber": "620800000000"
+            },
+            {
+                "cityName": "酒泉市",
+                "cityNumber": "620900000000"
+            },
+            {
+                "cityName": "庆阳市",
+                "cityNumber": "621000000000"
+            },
+            {
+                "cityName": "定西市",
+                "cityNumber": "621100000000"
+            },
+            {
+                "cityName": "陇南市",
+                "cityNumber": "621200000000"
+            },
+            {
+                "cityName": "临夏回族自治州",
+                "cityNumber": "622900000000"
+            },
+            {
+                "cityName": "甘南藏族自治州",
+                "cityNumber": "623000000000"
+            }
+        ],
+        "provinceName": "甘肃省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "西宁市",
+                "cityNumber": "630100000000"
+            },
+            {
+                "cityName": "海东市",
+                "cityNumber": "630200000000"
+            },
+            {
+                "cityName": "海北藏族自治州",
+                "cityNumber": "632200000000"
+            },
+            {
+                "cityName": "黄南藏族自治州",
+                "cityNumber": "632300000000"
+            },
+            {
+                "cityName": "海南藏族自治州",
+                "cityNumber": "632500000000"
+            },
+            {
+                "cityName": "果洛藏族自治州",
+                "cityNumber": "632600000000"
+            },
+            {
+                "cityName": "玉树藏族自治州",
+                "cityNumber": "632700000000"
+            },
+            {
+                "cityName": "海西蒙古族藏族自治州",
+                "cityNumber": "632800000000"
+            }
+        ],
+        "provinceName": "青海省"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "银川市",
+                "cityNumber": "640100000000"
+            },
+            {
+                "cityName": "石嘴山市",
+                "cityNumber": "640200000000"
+            },
+            {
+                "cityName": "吴忠市",
+                "cityNumber": "640300000000"
+            },
+            {
+                "cityName": "固原市",
+                "cityNumber": "640400000000"
+            },
+            {
+                "cityName": "中卫市",
+                "cityNumber": "640500000000"
+            }
+        ],
+        "provinceName": "宁夏回族自治区"
+    },
+    {
+        "cities": [
+            {
+                "cityName": "乌鲁木齐市",
+                "cityNumber": "650100000000"
+            },
+            {
+                "cityName": "克拉玛依市",
+                "cityNumber": "650200000000"
+            },
+            {
+                "cityName": "吐鲁番市",
+                "cityNumber": "650400000000"
+            },
+            {
+                "cityName": "哈密市",
+                "cityNumber": "650500000000"
+            },
+            {
+                "cityName": "昌吉回族自治州",
+                "cityNumber": "652300000000"
+            },
+            {
+                "cityName": "博尔塔拉蒙古自治州",
+                "cityNumber": "652700000000"
+            },
+            {
+                "cityName": "巴音郭楞蒙古自治州",
+                "cityNumber": "652800000000"
+            },
+            {
+                "cityName": "阿克苏地区",
+                "cityNumber": "652900000000"
+            },
+            {
+                "cityName": "克孜勒苏柯尔克孜自治州",
+                "cityNumber": "653000000000"
+            },
+            {
+                "cityName": "喀什地区",
+                "cityNumber": "653100000000"
+            },
+            {
+                "cityName": "和田地区",
+                "cityNumber": "653200000000"
+            },
+            {
+                "cityName": "伊犁哈萨克自治州",
+                "cityNumber": "654000000000"
+            },
+            {
+                "cityName": "塔城地区",
+                "cityNumber": "654200000000"
+            },
+            {
+                "cityName": "阿勒泰地区",
+                "cityNumber": "654300000000"
+            },
+            {
+                "cityName": "自治区直辖县级行政区划",
+                "cityNumber": "659000000000"
+            }
+        ],
+        "provinceName": "新疆维吾尔自治区"
+    }
+]}
