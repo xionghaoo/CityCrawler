@@ -10,8 +10,10 @@ headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.3
 
 href_host = 'http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/'
 
+page_format = 'gb18030'
+
 r = requests.get('http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/index.html', headers=headers)
-r.encoding = 'gb2312'
+r.encoding = page_format
 soup = BeautifulSoup(r.text, 'html.parser')
 
 # print(soup.title)
@@ -29,7 +31,8 @@ for p in province_list:
     # data['provinces'].append(p.contents[0])
 
     city_request = requests.get(href_host + p['href'], headers=headers)
-    city_soup = BeautifulSoup(city_request.text.encode(city_request.encoding).decode('gbk'), 'html.parser')
+    city_request.encoding = page_format
+    city_soup = BeautifulSoup(city_request.text.encode(city_request.encoding).decode(page_format), 'html.parser')
     city_list = city_soup.select('tr.citytr')
     city_data = {}
     city_data['cities'] = []
@@ -98,7 +101,7 @@ data['provinces'].append(aomen)
 # D:\\SVNRepo\\JZWealth\\app\\src\\main\\assets\\provinces.json
 with codecs.open('provinces.json', 'w') as f_obj:
     # 如果以utf8格式输出，ensure_ascii应该为True
-    json.dump(data, f_obj, ensure_ascii=True)
+    json.dump(data, f_obj, ensure_ascii=False)
 
 
 
