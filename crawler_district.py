@@ -29,7 +29,7 @@ href_host = 'http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019/'
 
 page_format = 'gb18030'
 
-r = requests.get('http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/index.html', headers=headers)
+r = requests.get('{}index.html'.format(href_host), headers=headers)
 r.encoding = page_format
 soup = BeautifulSoup(r.text, 'html.parser')
 

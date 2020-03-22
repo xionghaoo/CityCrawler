@@ -8,11 +8,11 @@ from bs4 import BeautifulSoup
 
 headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36'}
 
-href_host = 'http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/'
+href_host = 'http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019/'
 
 page_format = 'gb18030'
 
-r = requests.get('http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/index.html', headers=headers)
+r = requests.get('{}index.html'.format(href_host), headers=headers)
 r.encoding = page_format
 soup = BeautifulSoup(r.text, 'html.parser')
 
