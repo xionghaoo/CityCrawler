@@ -17,3 +17,10 @@ python3
 
 ### crawler_district.py
 抓取国家统计局 省、市区、区域 三级数据生成json文件
+
+### 运行方式
+
+在根目录执行：
+```shell
+% python3 crawler_district.py 
+```
